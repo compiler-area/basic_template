@@ -1,0 +1,99 @@
+[
+  {
+    "langName": "hack",
+    "links": [
+      {
+        "link": "make fake web",
+        "URL": "https://blasze.com/"
+      },
+      {
+        "link": "Short Url",
+        "URL": "https://www.shorturl.at/"
+      },
+      {
+        "link": "IP address lookup",
+        "URL": "https://www.whatismyip.com/ip-address-lookup/"
+      },
+      {
+        "link": "get website ip",
+        "URL": "https://www.site24x7.com/find-ip-address-of-web-site.html"
+      }
+    ]
+  },
+  {
+    "langName": "html",
+    "links": [
+      {
+        "link": "w3schools",
+        "URL": "https://w3schools.com"
+      },
+      {
+        "link": "Git Hub",
+        "URL": "https://github.com/"
+      },
+      {
+        "link": "Bootstrap",
+        "URL": "https://getbootstrap.com/docs/4.4/components/alerts/"
+      },
+      {
+        "link": "Youtube Downloader ",
+        "URL": "https://www.y2mate.com/convert-youtube/"
+      },
+      {
+        "link": "Codepen",
+        "URL": "https://codepen.io/"
+      },
+      {
+        "link": "Tutorial Republic",
+        "URL": "https://www.tutorialrepublic.com/"
+      }
+    ]
+  },
+  {
+    "langName": "JSON",
+    "links": [
+      {
+        "link": "MDN",
+        "URL": "https://developer.mozilla.org/ar/docs/Web/JavaScript/Reference/Global_Objects/JSON"
+      },
+      {
+        "link": "Api Ajax jQuery ",
+        "URL": "https://api.jquery.com/jquery.ajax/"
+      },
+      {
+        "link": "Errors",
+        "URL": "https://restfulapi.net/http-status-codes/"
+      },
+      {
+        "link": "Json Converter",
+        "URL": "https://jsoneditoronline.org/#left=local.rebuhe"
+      },
+      {
+        "link": "Json Validator",
+        "URL": "https://jsonformatter.curiousconcept.com/"
+      },
+      {
+        "link": "Elzero Course",
+        "URL": "https://elzero.org/learn-ajax-and-json/"
+      }
+    ]
+  },
+  {
+    "langName": "vue.js",
+    "links": [
+      {
+        "link": "vue.js",
+        "URL": "https://vuejs.org/"
+      }
+    ]
+  },
+  {
+    "langName": "Google Drive",
+    "links": [
+      {
+        "link": "Get Direct Download Link ",
+        "URL": "https://sites.google.com/site/gdocs2direct/"
+      }
+    ]
+  }
+]
